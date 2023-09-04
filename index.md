@@ -54,3 +54,19 @@ This page lists each course I took in College and one key takeaway.
 
 > You can do so much in a Jupyter notebook! This will also turn out to be a huge mistake.
 
+#### YHU2291 Introduction to Arts
+
+> Never be afraid to try new things!
+
+#### YSC1212 Introduction to Computer Science
+
+> Programming is a serious endeavour that requires great care.
+
+#### YSC2209 Proof
+
+> Mathematics is a lot more than just arithmetic.
+
+### YSC4224 Applied Data Science
+
+> I perhaps took this course a bit too early.
+
