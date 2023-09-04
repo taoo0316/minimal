@@ -6,7 +6,7 @@ Hi! Welcome to my page!
 
 This page lists each course I took in College and one key takeaway.
 
-#### YSC1111 Literature and Humanities 1
+#### YCC1111 Literature and Humanities 1
 
 > I am not as bad in literature as I think I am. I do not like reading as much as I think do.
 
