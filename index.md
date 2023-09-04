@@ -22,6 +22,10 @@ This page lists each course I took in College and one key takeaway.
 
 > Programming seems to be about following the right syntax, which will later turn out to be a huge mistake.
 
+#### edX and Summer School
+
+> Online classes are really not the best.
+
 #### YCC1112 Literature and Humanities 2
 
 > I actually love literature and overanalysing a piece of text.
