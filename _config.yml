@@ -1,6 +1,6 @@
 title: Wentao's Courses
 logo: /assets/img/profile.jpg
 description: Here is site about courses I took in College.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
