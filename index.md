@@ -66,7 +66,23 @@ This page lists each course I took in College and one key takeaway.
 
 > Mathematics is a lot more than just arithmetic.
 
-### YSC4224 Applied Data Science
+#### YSC4224 Applied Data Science
 
 > I perhaps took this course a bit too early.
+
+#### YHU3336 Goodbye Mao: China's Post Socialist Transformations
+
+> Ask for help when writing the final essay.
+
+#### YSC2229 Introductory Data Structures and Algorithms
+
+> I do like programming when all the tests pass.
+
+#### YSC2243 Probability
+
+> Probability is harder than I thought.
+
+### YSC2244 Programming for Data Science
+
+> I do not learn as much when the homework is too guided.
 
