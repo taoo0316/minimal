@@ -38,6 +38,19 @@ This page lists each course I took in College and one key takeaway.
 
 > I perhaps made the right decision to not take Economics in Junior College.
 
+#### YCC2121 Modern Social Thought
 
+> Gosh...
 
+#### YCC2137 Scientific Inquiry 2
+
+> Modelling in R is so fun!
+
+#### YSC1216 Calculus
+
+> You can never learn calculus too many times.
+
+#### YSC2239 Introduction to Data Science
+
+> You can do so much in a Jupyter notebook! This will also turn out to be a huge mistake.
 
