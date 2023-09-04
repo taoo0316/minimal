@@ -34,6 +34,10 @@ This page lists each course I took in College and one key takeaway.
 
 > Things that seem easy are not always actually easy.
 
+#### YSS1203 Principles of Economics
+
+> I perhaps made the right decision to not take Economics in Junior College.
+
 
 
 
