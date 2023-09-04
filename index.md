@@ -82,7 +82,31 @@ This page lists each course I took in College and one key takeaway.
 
 > Probability is harder than I thought.
 
-### YSC2244 Programming for Data Science
+#### YSC2244 Programming for Data Science
 
 > I do not learn as much when the homework is too guided.
+
+#### MS-C1342 Linear Algebra
+
+> Gilbert Strang is a genius.
+
+#### CS-A1155 Databases for Data Science
+
+> I do like databases, although not necessarily building them.
+
+#### CS-E4730 Computational Social Science D
+
+> NetworkX is a really handy tool.
+
+#### CS-C2160 Theory of Computation
+
+> Learning about theory does not necessarily enhance understanding.
+
+#### MS-C1620 Statistical Inference
+
+> You can never remember what each statistical test does.
+
+#### MS-C2105 Introduction to Optimisation
+
+> I finally understood what gradient descent really means.
 
