@@ -22,4 +22,18 @@ This page lists each course I took in College and one key takeaway.
 
 > Programming seems to be about following the right syntax, which will later turn out to be a huge mistake.
 
+#### YCC1112 Literature and Humanities 2
+
+> I actually love literature and overanalysing a piece of text.
+
+#### YCC1114 Philosophy and Political Thought 2
+
+> I am perhaps a little apathetic towards politics.
+
+#### YCC1131 Scientific Inquiry 1
+
+> Things that seem easy are not always actually easy.
+
+
+
 
