@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Hi! Welcome to my page! This page lists all the courses I have taken throughout my time in College and one key takeaway.
+Hi! Welcome to my page! 
+
+This page lists each course I took in College and one key takeaway.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
