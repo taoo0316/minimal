@@ -8,26 +8,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-## YSC 1111 Literature and Humanities 1
+### YSC1111 Literature and Humanities 1
 
 > I am not as bad in literature as I think I am. I do not like reading as much as I think do.
 
-### Header 3
+### YCC1113 Philosophy and Political Thought 1
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+> Reading translated texts can be a real pain.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
