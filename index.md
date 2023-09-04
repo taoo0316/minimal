@@ -4,7 +4,7 @@ layout: default
 
 Hi! Welcome to my page! 
 
-This page lists each course I took in College and one key takeaway.
+This page lists each course I took in college and one key takeaway.
 
 #### YCC1111 Literature and Humanities 1
 
