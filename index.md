@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Hi! Welcome to my page! This page lists all the courses I have taken throughout my time in College.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
