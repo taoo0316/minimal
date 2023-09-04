@@ -8,7 +8,7 @@ This page lists each course I took in College and one key takeaway.
 
 #### YCC1111 Literature and Humanities 1
 
-> I am not as bad in literature as I think I am. I do not like reading as much as I think do.
+> I am not as bad at literature as I think I am. I do not like reading as much as I think do.
 
 #### YCC1113 Philosophy and Political Thought 1
 
@@ -56,7 +56,7 @@ This page lists each course I took in College and one key takeaway.
 
 #### YSC2239 Introduction to Data Science
 
-> You can do so much in a Jupyter notebook! This will also turn out to be a huge mistake.
+> You can do so much in a Jupyter Notebook! This will also turn out to be a huge mistake.
 
 #### YHU2291 Introduction to Arts
 
