@@ -115,13 +115,13 @@ This page lists each course I took in college and one key takeaway.
 > I finally understood what gradient descent really means.
 
 #### YHU2241 Why Be Moral?
-> Complex ideas in philosophy can usually be reorganised to a concise and clear argument form.
+> Complex ideas in philosophy can usually be reorganised into a concise and clear argument form.
 
 #### YSC3236 Functional Programming and Proving
 > Learn the basics in programming to move elegantly later on.
 
 #### YSC4231 Parallel, Concurrent and Distributed Programming
-> Distributed system is very hard yet important work.
+> Distributed computing is very hard yet important work.
 
 #### YSS3339 Theories of Freedom
 > Pick a stand you genuinely believe in and argue for it fearlessly.
