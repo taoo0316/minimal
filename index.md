@@ -44,7 +44,7 @@ This page lists each course I took in college and one key takeaway.
 
 #### YCC2121 Modern Social Thought
 
-> Gosh...
+> Still trying to recall :)
 
 #### YCC2137 Scientific Inquiry 2
 
