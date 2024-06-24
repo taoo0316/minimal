@@ -126,3 +126,12 @@ This page lists each course I took in college and one key takeaway.
 #### YSS3339 Theories of Freedom
 > Pick a stand you genuinely believe in and argue for it fearlessly.
 
+#### YHU2341 Philosophy of Games
+> Rule-based fun is better than chaotic fun.
+
+#### YSC3232 Software Engineering
+> I am more into science than engineering.
+
+#### YSC4225 Stochastic Processes and Models (SPAM)
+> Regardless of past decisions, have the faith to start anew. 
+
