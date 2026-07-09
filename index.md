@@ -8,7 +8,7 @@ This page lists each course I took in college and one key takeaway.
 
 #### YCC1111 Literature and Humanities 1
 
-> I am not as bad at literature as I think I am. I do not like reading as much as I think do.
+> I am not as bad at literature as I think I am. I do not like reading as much as I think I do.
 
 #### YCC1113 Philosophy and Political Thought 1
 
